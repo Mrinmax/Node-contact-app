@@ -11,6 +11,7 @@
   "author": "Mrinal Kanti Sardar",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.1.4",
     "express": "^4.18.2"
   },
   "devDependencies": {
